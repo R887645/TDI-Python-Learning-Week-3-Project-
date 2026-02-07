@@ -1,12 +1,13 @@
 # Week 3: Data Structures & Supply Chain Network Understanding
 
 In this Week 3 project, I moved beyond control flow and functions to focus on Python’s built-in data structures. This week was all about organizing and modeling the supply chain dataset using lists, dictionaries, sets, and nested structures.
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Intro%20week%203.png?raw=true)
 
-This experience made the dataset feel like a real network — suppliers connected to products, orders tied to costs, and warehouses linked to deliveries. It showed me how structuring data strategically reveals patterns and risks in supply chains.
+This experience made the dataset feel like a real network; suppliers connected to products, orders tied to costs, and warehouses linked to deliveries. It showed me how structuring data strategically reveals patterns and risks in supply chains.
 
 ---
 
-## 🧠 Key Skills Practiced
+## Key Skills Practiced
 
 During this project, I strengthened my understanding of:
 
@@ -27,12 +28,20 @@ During this project, I strengthened my understanding of:
 - Extracted all `total_cost` values into a list  
 - Calculated total, average, and median order values  
 - Practiced sorting and indexing to analyze order distributions  
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task%201A.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task%201B.png?raw=true)
+
 
 ### Product–Supplier Mapping with Dictionaries
 
 - Built a dictionary mapping products → suppliers  
 - Queried which supplier provides a specific product  
-- Counted unique suppliers to understand network diversity  
+- Counted unique suppliers to understand network diversity 
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task2A.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task2B.png?raw=true)
 
 ### Unique Value Discovery with Sets
 
@@ -40,11 +49,16 @@ During this project, I strengthened my understanding of:
 - Counted unique items in each category  
 - Identified products supplied by only one supplier  
 
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task2c.png?raw=true)
+
+
 ### Risk Reporting
 
 - Looped through product–supplier dictionary  
 - Flagged single-source products as supply chain risks  
 - Printed a clear risk report for stakeholders  
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Task%204.png?raw=true)
 
 ### Complex Network Modeling
 
@@ -52,17 +66,27 @@ During this project, I strengthened my understanding of:
 - Queried products by supplier (e.g., “Show all products from Supplier A”)  
 - Calculated total value of products per supplier  
 
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/task5A.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/task%205B.png?raw=true)
+
+
 ---
 
-## 🚀 Extra Challenges
+## Extra Challenges
 
 - Filtered orders above a cost threshold and calculated their percentage of total orders  
 - Found which supplier provides the most products  
-- Grouped orders by status, queried delivered orders, and calculated their average value  
+- Grouped orders by status, queried delivered orders, and calculated their average value 
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Challenge%201A.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Challenge%201B.png?raw=true)
+
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains thousands of rows with fields such as:
 
@@ -72,17 +96,19 @@ The dataset contains thousands of rows with fields such as:
 - `unit_price`  
 - `total_cost`  
 - `supplier_name`  
-- `delivery_status`  
+- `delivery_status` 
 
 ### Insights from Week 3 Analysis
 
 - Multiple suppliers provide overlapping products, but some products are single-source risks  
 - Order costs vary widely, with a few very high-value orders dominating totals  
-- Delivery statuses show patterns that can be grouped and analyzed further  
+- Delivery statuses show patterns that can be grouped and analyzed further 
+
+![You Can view my Full week 3 project here](http://localhost:8888/notebooks/OneDrive/Documents/TDI%20Week%201%20python%20project/Week3_PersonalDataOrganizer.ipynb#)
 
 ---
 
-## 🔍 Questions for Further Analysis
+## Questions for Further Analysis
 
 As I continue, I’m curious to explore:
 
@@ -98,8 +124,10 @@ This project was a turning point in learning how to structure real data. Lists, 
 
 The most impactful part was building the nested supplier–product–cost network. It made the dataset feel alive, showing dependencies and risks clearly. I now see how analysts use Python not just to calculate, but to map and understand complex systems.
 
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/conclusion%20wk%203.png?raw=true)
+
 ---
 
-## 🔮 Next Week
+## Next Week
 
 In Week 4, I’ll expand this work by learning file handling, data quality assessment, and cleaning the supply chain dataset to prepare it for deeper analysis.
