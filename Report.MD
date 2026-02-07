@@ -21,7 +21,7 @@ During this project, I strengthened my understanding of:
 
 ---
 
-## 🖥️ What I Implemented
+## What I Implemented
 
 ### Order Analysis with Lists
 
@@ -104,7 +104,7 @@ The dataset contains thousands of rows with fields such as:
 - Order costs vary widely, with a few very high-value orders dominating totals  
 - Delivery statuses show patterns that can be grouped and analyzed further 
 
-![You Can view my Full week 3 project here](http://localhost:8888/notebooks/OneDrive/Documents/TDI%20Week%201%20python%20project/Week3_PersonalDataOrganizer.ipynb#)
+![You Can view my Full week 3 project here](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Week3_PersonalDataOrganizer%20(1).ipynb)
 
 ---
 
