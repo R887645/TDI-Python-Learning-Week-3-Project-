@@ -104,9 +104,18 @@ The dataset contains thousands of rows with fields such as:
 - Order costs vary widely, with a few very high-value orders dominating totals  
 - Delivery statuses show patterns that can be grouped and analyzed further 
 
-![You Can view my Full week 3 project here](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Week3_PersonalDataOrganizer%20(1).ipynb)
+[You Can view the Full week 3 project here](https://github.com/R887645/TDI-Python-Learning-Week-3-Project-/blob/main/Week3_PersonalDataOrganizer%20(1).ipynb)
 
 ---
+
+## Personal Challenges Faced but Overcomed
+
+- Learning how to choose the most appropriate data structure (lists, dictionaries, or sets) for different analysis tasks
+
+- Translating real-world supply chain relationships into properly structured Python code
+
+- Debugging logic errors easily while working with nested data and complex queries
+
 
 ## Questions for Further Analysis
 
@@ -120,7 +129,7 @@ As I continue, I’m curious to explore:
 
 ## Reflection
 
-This project was a turning point in learning how to structure real data. Lists, dictionaries, and sets moved beyond theory — they became tools to model relationships in the supply chain.
+This project was a turning point in learning how to structure real data. Lists, dictionaries, and sets moved beyond theory, they became tools to model relationships in the supply chain.
 
 The most impactful part was building the nested supplier–product–cost network. It made the dataset feel alive, showing dependencies and risks clearly. I now see how analysts use Python not just to calculate, but to map and understand complex systems.
 
